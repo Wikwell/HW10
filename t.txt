@@ -1,0 +1,23 @@
+[33mcommit cfb2b2484e2269a129aeb863adfd4e4adafee3a0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Wikwell <5viktorwork5@gmail.com>
+Date:   Thu May 9 18:48:27 2024 +0300
+
+    Added develop_test.txt
+
+[33mcommit 4d28372d568544506f0d8f3640485b06cc87f8d1[m
+Author: Wikwell <5viktorwork5@gmail.com>
+Date:   Thu May 9 18:47:42 2024 +0300
+
+    Added main_test.txt
+
+[33mcommit 6a222d7213b6799a83bf875908e174bb14ae0227[m
+Author: Wikwell <5viktorwork5@gmail.com>
+Date:   Thu May 9 18:47:17 2024 +0300
+
+    Added text_ignore.txt and updated .gitignore
+
+[33mcommit 08a32a516fe604ac1abad992d861b11eaab8b4a3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wikwell <159171778+Wikwell@users.noreply.github.com>
+Date:   Thu May 9 18:15:07 2024 +0300
+
+    Initial commit
